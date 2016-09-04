@@ -1,2 +1,2 @@
 # drawProgram
-a draw program using turtle 
+a Python draw program using turtle 
