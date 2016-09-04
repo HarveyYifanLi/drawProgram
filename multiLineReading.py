@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 19 15:35:47 2016
-
-@author: yifanli
-"""
-
 import turtle
 
 def main():
